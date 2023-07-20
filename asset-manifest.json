@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pala/static/css/main.eba2bf6f.css",
-    "main.js": "/Pala/static/js/main.69c92c4d.js",
+    "main.css": "/Pala/static/css/main.7c5a90f8.css",
+    "main.js": "/Pala/static/js/main.a9cefdb1.js",
     "static/media/emerald bandit maeve.jpg": "/Pala/static/media/emerald bandit maeve.2a559eba2ef98b054725.jpg",
     "static/media/wallpaper9.jpg": "/Pala/static/media/wallpaper9.d6138743348c3c50d21c.jpg",
     "static/media/wallpaper8.jpg": "/Pala/static/media/wallpaper8.60a75aa6898bd4d7afd5.jpg",
@@ -121,11 +121,11 @@
     "static/media/Cassie3.mp3": "/Pala/static/media/Cassie3.0ddbcb255ce5123cf91a.mp3",
     "static/media/serpent beach.webp": "/Pala/static/media/serpent beach.da7b1931358f2dd83ff6.webp",
     "index.html": "/Pala/index.html",
-    "main.eba2bf6f.css.map": "/Pala/static/css/main.eba2bf6f.css.map",
-    "main.69c92c4d.js.map": "/Pala/static/js/main.69c92c4d.js.map"
+    "main.7c5a90f8.css.map": "/Pala/static/css/main.7c5a90f8.css.map",
+    "main.a9cefdb1.js.map": "/Pala/static/js/main.a9cefdb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.eba2bf6f.css",
-    "static/js/main.69c92c4d.js"
+    "static/css/main.7c5a90f8.css",
+    "static/js/main.a9cefdb1.js"
   ]
 }
